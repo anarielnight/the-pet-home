@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg" 
+   version="1.1"
+   viewBox="0 0 600 600"
+   width="588"
+   height="560">
+  <pattern id="pattern" width="100%" height="100%">
+    <image href="https://placekitten.com/600/600" width="100%" height="100%" />
+  </pattern>
+  <path
+     d="M 294,3 C 317.57143,3 578.62433,194.22291 585.24612,214.60269 591.86791,234.98247 493.06969,543.1281 474,556.98304 c -19.06969,13.85494 -339.19671,15.11448 -360,0 C 96.663921,544.38764 -3.8679104,234.98247 2.753882,214.60269 9.3756744,194.22291 272.57143,3 294,3 Z"
+     style="fill:url(#pattern);stroke:#aaaaaa;stroke-width:1"
+  />
+</svg>

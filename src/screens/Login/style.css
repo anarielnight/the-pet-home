@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+.App {
+    background-image: radial-gradient(circle at 50% 0, #8d6e63, #3e2723 96%);
+}
+
+.login__logo {
+    display: none;
+}
+
+.login__logo-image {
+    width: 256.4px;
+    height: 216px;
+    margin: 120.9px auto 103px;
+}
+
+.login__label {
+    font-family: Roboto;
+    font-size: 20px;
+    line-height: 1.2;
+    text-align: center;
+    color: #ffffff;
+    margin: 0;
+}
+
+.login__enters {
+    padding: 0;
+    margin: 16px;
+    list-style: none;
+    padding-bottom: 40px;
+}
+
+.login__enter {
+    width: 100%;
+    margin: 12px 0;
+}

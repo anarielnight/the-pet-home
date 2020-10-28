@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="pentagon2.svg"
+   id="svg845"
+   version="1.1"
+   preserveAspectRatio="xMinYMin meet"
+   viewBox="0 0 600 600"
+   width="588"
+   height="560">
+  <metadata
+     id="metadata851">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs849" />
+  <sodipodi:namedview
+     inkscape:snap-others="false"
+     inkscape:object-nodes="false"
+     inkscape:current-layer="svg845"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="313.99894"
+     inkscape:cx="294"
+     inkscape:zoom="0.96071429"
+     inkscape:snap-bbox="false"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-midpoints="false"
+     showgrid="false"
+     id="namedview847"
+     inkscape:window-height="705"
+     inkscape:window-width="1366"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+       <pattern id="pattern" width="100%" height="100%">
+    <image href="https://img-fotki.yandex.ru/get/10/yoksel.4e/0_398a6_1f246823_M" width="300" height="200" />
+  </pattern>
+  <path
+     sodipodi:nodetypes="ssssss"
+     d="M 294,3 C 317.57143,3 578.62433,194.22291 585.24612,214.60269 591.86791,234.98247 493.06969,543.1281 474,556.98304 c -19.06969,13.85494 -339.19671,15.11448 -360,0 C 96.663921,544.38764 -3.8679104,234.98247 2.753882,214.60269 9.3756744,194.22291 272.57143,3 294,3 Z"
+     style="fill:url(#pattern);stroke:#aaaaaa;stroke-width:1"
+     id="polygon843" />
+</svg>

@@ -1,0 +1,9 @@
+.pentophoto {
+    border: 1px solid red;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.pentophoto__image {
+    max-width: 100%;
+    height: auto;
+}
