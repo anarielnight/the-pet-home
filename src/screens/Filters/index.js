@@ -14,7 +14,7 @@ function Filters() {
             <meta name="theme-color" content="#e0e0e0"></meta>
             <CheckboxGroup checkGroup={checkgroup1}/>
             <Pentophoto src="https://placekitten.com/600/600" id="fjhfdh"/>
-            <Pentophoto src="https://placekitten.com/300/300" id="fjhfdh"/>
+            <Pentophoto src="https://placekitten.com/300/300" id="fjhfdh2"/>
         </div>
     )
 }
