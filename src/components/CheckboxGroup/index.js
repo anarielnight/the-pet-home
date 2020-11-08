@@ -1,14 +1,16 @@
 import React from 'react';
 import './style.css';
-import Checkbox from '../Checkbox'; 
+import CheckboxRow from '../CheckboxRow'; 
 
-function CheckboxGroup({checkGroup = []}) {
+function CheckboxGroup({checkGroup = [], onChangeCheckbox}) {
     return (
         <ul className="checkbox-group">
             {checkGroup.map(function(item) {
                 return (
                     <li key={item.name}>
-                        <Checkbox label={item.label} name={item.name} checked={item.checked}/>
+                        <CheckboxRow label={item.label} name={item.name} checked={item.checked} onChange={
+                            () => {onChangeCheckbox(item.name)}
+                        }/>
                     </li>
                 );
             })}
